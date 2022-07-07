@@ -1,0 +1,124 @@
+{
+    "samples": [
+        {
+            "file": "4.18\\M_Worm.uasset",
+            "version": "4.18",
+            "class": "Material"
+        },
+        {
+            "file": "4.18\\SK_Worm.uasset",
+            "version": "4.18",
+            "class": "SkeletalMesh"
+        },
+        {
+            "file": "4.18\\SK_Worm_PhysicsAsset.uasset",
+            "version": "4.18",
+            "class": "PhysicsAsset"
+        },
+        {
+            "file": "4.18\\SK_Worm_Skeleton.uasset",
+            "version": "4.18",
+            "class": "Skeleton"
+        },
+        {
+            "file": "4.18\\SM_Worm.uasset",
+            "version": "4.18",
+            "class": "StaticMesh"
+        },
+        {
+            "file": "4.18\\T_Worm_A.uasset",
+            "version": "4.18",
+            "class": "Texture2D"
+        },
+        {
+            "file": "4.18\\T_Worm_D.uasset",
+            "version": "4.18",
+            "class": "Texture2D"
+        },
+        {
+            "file": "4.18\\T_Worm_N.uasset",
+            "version": "4.18",
+            "class": "Texture2D"
+        },
+        {
+            "file": "4.27\\M_Worm.uasset",
+            "version": "4.27",
+            "class": "Material"
+        },
+        {
+            "file": "4.27\\SK_Worm.uasset",
+            "version": "4.27",
+            "class": "SkeletalMesh"
+        },
+        {
+            "file": "4.27\\SK_Worm_PhysicsAsset.uasset",
+            "version": "4.27",
+            "class": "PhysicsAsset"
+        },
+        {
+            "file": "4.27\\SK_Worm_Skeleton.uasset",
+            "version": "4.27",
+            "class": "Skeleton"
+        },
+        {
+            "file": "4.27\\SM_Worm.uasset",
+            "version": "4.27",
+            "class": "StaticMesh"
+        },
+        {
+            "file": "4.27\\T_Worm_A.uasset",
+            "version": "4.27",
+            "class": "Texture2D"
+        },
+        {
+            "file": "4.27\\T_Worm_D.uasset",
+            "version": "4.27",
+            "class": "Texture2D"
+        },
+        {
+            "file": "4.27\\T_Worm_N.uasset",
+            "version": "4.27",
+            "class": "Texture2D"
+        },
+        {
+            "file": "5.0\\M_Worm.uasset",
+            "version": "5.0",
+            "class": "Material"
+        },
+        {
+            "file": "5.0\\SK_Worm.uasset",
+            "version": "5.0",
+            "class": "SkeletalMesh"
+        },
+        {
+            "file": "5.0\\SK_Worm_PhysicsAsset.uasset",
+            "version": "5.0",
+            "class": "PhysicsAsset"
+        },
+        {
+            "file": "5.0\\SK_Worm_Skeleton.uasset",
+            "version": "5.0",
+            "class": "Skeleton"
+        },
+        {
+            "file": "5.0\\SM_Worm.uasset",
+            "version": "5.0",
+            "class": "StaticMesh"
+        },
+        {
+            "file": "5.0\\T_Worm_A.uasset",
+            "version": "5.0",
+            "class": "Texture2D"
+        },
+        {
+            "file": "5.0\\T_Worm_D.uasset",
+            "version": "5.0",
+            "class": "Texture2D"
+        },
+        {
+            "file": "5.0\\T_Worm_N.uasset",
+            "version": "5.0",
+            "class": "Texture2D"
+        }
+    ]
+}
