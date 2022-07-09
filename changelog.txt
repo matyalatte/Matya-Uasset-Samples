@@ -1,0 +1,2 @@
+July 09, 2022
+- Changed DDS format for alpha textures from DXT1 to BC4. 
